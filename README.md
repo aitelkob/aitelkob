@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img align="left" alt="aitelkob's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet" align="left">
+<img src="https://komarev.com/ghpvc/?username=aitelkob&color=blueviolet" align="left">
 
 
 
