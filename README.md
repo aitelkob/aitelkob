@@ -31,12 +31,14 @@ A **Software Engineering Student** 🚀 from 1337, (42 Network).
 
 **About Me!**
 
+- 🔭 I’m currently looking to obtain an internship or part-time where I will explore
+a career path as a Game Developement, moreover to develop and refine my soft skills...
 - 👨🏽‍💻 I’m currently working on A game engine similar to the original Doom or Duke Nukem 3D games.
 - 🌱 I’m currently exploring Python with a big interest in Web Scraping and Data Visualization. 
 - 🤔 Designing and making video games
 - 💼 I’m pursuing a junior certificate software engineer.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [yait-el-@student.1337.ma](mailto:zamran.butt.1@gmail.com).
+- 📫 Email me at [yait-el-@student.1337.ma](mailto:yait-el-@student.1337.ma).
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info.
 
 
