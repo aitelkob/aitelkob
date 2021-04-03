@@ -82,6 +82,9 @@ c#
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aitelkob&repo=fracto-l&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" />
 </a>
 
+<a href="https://github.com/aitelkob/FDF">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aitelkob&repo=FDF&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" />
+</a>
 
 
 ⭐️ From [aitelkob](https://github.com/aitelkob)
