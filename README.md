@@ -40,11 +40,11 @@ A **Software Engineering Student** 🚀 from 1337, (42 Network).
 - 🔭 I’m currently looking To obtain an internship or part-time where I will explore a career path as a game developer,
    moreover to develop and refine my soft skills.
 - 🌱 I’m currently exploring Python with a big interest in Web Scraping and Data Visualization. 
-- 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
+- 🤔 My interests are game dev, 3D Rendering and developing some useful and cool stuff xD
 - 💼 I’m pursuing a Junior Certificate in Software Engineering.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [yait-el-@student.1337.ma](mailto:yait-el-@student.1337.ma).
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1jdZwLHMAACWIUiMLZokXlTBMxOdkQItP/view?usp=sharing) to get more info.
 
 
 **Languages and Tools:**  
