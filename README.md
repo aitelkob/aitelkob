@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- <h3 title="hehehe"> Hi there! 👋</h3> -->
 
 <h3 title="hehehe"> Hey 👋, I'm youssef!</h3>
 
