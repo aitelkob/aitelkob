@@ -66,8 +66,9 @@ c#
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aitelkob&show_icons=true&hide_border=true&count_private=true&theme=midnight-purple"/>
 </a>
 <a href="">
-  <img align="center" src="https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&theme=midnight-purple&leet_logo=hide&login=yait-el-" />
+  <img align="center" src="https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=yait-el-"/>
 </a>
+
 <a href="https://github.com/aitelkob/Wolf3D_teamA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aitelkob&repo=Wolf3D_teamA&show_icons=true&hide_border=true&count_private=true&theme=midnight-purple" />
 </a>
